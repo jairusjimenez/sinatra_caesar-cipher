@@ -1,5 +1,5 @@
 require "sinatra"
-require "sinatra/reloader"
+#require "sinatra/reloader"
 
 status = "Waiting for command..."
 msg = ""
