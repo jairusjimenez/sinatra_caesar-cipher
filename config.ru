@@ -1,2 +1,2 @@
-require 'lib/run'
+require './lib/run'
 run Sinatra::Application
